@@ -1,0 +1,12 @@
+# Credentials (never commit)
+credentials.json
+token.json
+
+# Python
+__pycache__/
+*.py[cod]
+venv/
+.venv/
+
+# OS
+.DS_Store
